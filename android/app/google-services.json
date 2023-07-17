@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "577580443101",
+    "project_id": "kelompok2-firebase-f21b7",
+    "storage_bucket": "kelompok2-firebase-f21b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577580443101:android:89b7a7afc2da3166a48234",
+        "android_client_info": {
+          "package_name": "com.kelompok2.resto_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577580443101-9i9l6vj1vr8jdl6ta2a4ib1b45dblbpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok2.resto_firebase",
+            "certificate_hash": "8a77e156b29b77803909260a0a4ded09e97ddf25"
+          }
+        },
+        {
+          "client_id": "577580443101-2bu4thubt3idt82332hmioobuvfpr50s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQ31Pd1wDe4eRwHuHH0mGcAoYkpyrglk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577580443101-2bu4thubt3idt82332hmioobuvfpr50s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577580443101-el0520mcv33koidklcmomcga7svehcjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelompok2.restoFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
